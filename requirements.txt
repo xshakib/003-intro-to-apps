@@ -1,4 +1,6 @@
 plotly==5.5.0
+numpy==1.21.1
+dash==2.5.1
 
 # it's not a bad idea to add comments to your requirements file
 # as of July 2022, the most recent version of plotly is actually 5.9.0!
